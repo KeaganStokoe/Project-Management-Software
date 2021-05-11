@@ -1,0 +1,2 @@
+1; Bullring; House; 1293 Prospect Street; 457; 100000.0; 10000.0; 9/9/2021; Ryan Rensburg; 0836578943; ryan@buildsa.com; 12 Wilbur Avenue; Steven Scates; 6543; hgfds; 85 Westville Boulevard; James Kennedy; 0845761342; james@fnb.com; 21 Prospect Street; yes
+3; Test Project; House; 15 Wilson Avenue, Sandton; 367; 100000.0; 9999.0; 02/08/2021; Ryan Rensburg; 0789875643; ryan@build.com; 67 Smith Street, Randburg; Steven Scates; 0786753426; steve@scates.com; 18 Wolburton, London; James Brown; 0789875643; james@newhouse.com; TBD; yes
